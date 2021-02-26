@@ -43,3 +43,11 @@ A repo that give with the files and the process of installing Confluent Kafka an
                 export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
    
    Here, "/Users/vikhyatchauhan/Desktop/confluent-6.1.0" is the installation location of your confluent build extratcted zip file.
+
+## Steps 5 : Installing Confluent Kafka in your PC 
+   
+   Here, nothing is much complicated anymore. Follow this Video(https://www.youtube.com/watch?v=5x5GnBhyTMI) and you will get all the information you require, the only main issue is with the
+   java installation which has been solved in the above steps. Next just follow the video and edit the etc/ preferences files in your confluent installation
+   and start confluent in your command line.
+    
+                confluent local services start
