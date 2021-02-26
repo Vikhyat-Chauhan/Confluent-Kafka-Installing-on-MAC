@@ -30,5 +30,5 @@ A repo that give with the files and the process of installing Confluent Kafka an
 
    Here AdoptOpenJDK 8 is the one that we are interested in, am also attaching this Java file so that instead of completing the entire step you can just place        these JDK files into your Java installation folder [/Library/Java/JavaVirtualMachines/].   
    
-   [![Manual Java8 Placement](pictures/Manual_JAVA8_INSIDE_FOLDER.png)](https://www.youtube.com/watch?v=L38-6ilGeKE)
+   [![Manual Java8 Placement](pictures/Manual_JAVA8_INSIDE_FOLDER.png)]
 
