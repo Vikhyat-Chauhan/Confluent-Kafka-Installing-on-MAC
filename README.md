@@ -57,6 +57,9 @@ A repo that give with the files and the process of installing Confluent Kafka an
 # Link to some Resources that I found helpful.
 
   [Official Confluent Installation Guide](https://docs.confluent.io/5.4.2/cli/installing.html)
+  
   [Installing Java8 on Mac - stackoverflow](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
+  
   [homebrew-cask-option-not-recognized - stackoverflow](https://stackoverflow.com/questions/30413621/homebrew-cask-option-not-recognized)
+  
   [Youtube Video Guide on Setting up Confluent Installation](https://www.youtube.com/watch?v=5x5GnBhyTMI)
