@@ -53,7 +53,8 @@ A repo that give with the files and the process of installing Confluent Kafka an
    Finally, start confluent in your command line.
     
                 confluent local services start
-
+   
+   ![Congratulations if you see this successfully!](pictures/confluent_started.png)
 # Link to some Resources that I found helpful.
 
   [Official Confluent Installation Guide](https://docs.confluent.io/5.4.2/cli/installing.html)
