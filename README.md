@@ -46,7 +46,7 @@ A repo that give with the files and the process of installing Confluent Kafka an
 
 ## Steps 5 : Installing Confluent Kafka in your PC 
    
-   Here, nothing is much complicated anymore. Follow this Video(https://www.youtube.com/watch?v=5x5GnBhyTMI) and you will get all the information you require, the only main issue is with the
+   Here, nothing is much complicated anymore. Follow this [Video](https://www.youtube.com/watch?v=5x5GnBhyTMI) and you will get all the information you require, the only main issue is with the
    java installation which has been solved in the above steps. Next just follow the video and edit the etc/ preferences files in your confluent installation
    and start confluent in your command line.
     
