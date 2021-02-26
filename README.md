@@ -32,3 +32,14 @@ A repo that give with the files and the process of installing Confluent Kafka an
    
    ![Manual Java8 Placement](pictures/Manual_JAVA8_INSIDE_FOLDER.png)
 
+## Steps 4 : Adding Your Java8 Installation and Confluent Kafka Installation to the path of your zsh terminal Path.
+                
+                sudo nano .zshrc
+    
+   Now edit this file in terminal and added following to the file :
+                
+                export CONFLUENT_HOME=/Users/vikhyatchauhan/Desktop/confluent-6.1.0
+                export PATH=$PATH:$CONFLUENT_HOME/bin
+                export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
+   
+   Here, "/Users/vikhyatchauhan/Desktop/confluent-6.1.0" is the installation location of your confluent build extratcted zip file.
