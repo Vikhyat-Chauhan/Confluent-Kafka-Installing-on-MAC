@@ -48,7 +48,7 @@ A repo that give with the files and the process of installing Confluent Kafka an
   
    Here, nothing is much complicated anymore. Follow this [Video](https://www.youtube.com/watch?v=5x5GnBhyTMI) and you will get all the information you require,    the only main issue is with the
    java installation which has been solved in the above steps. 
-   Next by following the video, download the lastest kafka zip file and extract it to your desired location( the one specififed in .zshrc path i.e   /Users/vikhyatchauhan/Desktop/confluent-6.1.0) and edit the etc/ preferences files in your confluent installation.
+   Next by following the video, download the [Lastest Confluent zip file](https://www.confluent.io/download/) and extract it to your desired location( the one specififed in .zshrc path i.e   /Users/vikhyatchauhan/Desktop/confluent-6.1.0) and edit the etc/ preferences files in your confluent installation.
   
    Finally, start confluent in your command line.
     
