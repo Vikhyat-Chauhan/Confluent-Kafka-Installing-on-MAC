@@ -53,3 +53,9 @@ A repo that give with the files and the process of installing Confluent Kafka an
    Finally, start confluent in your command line.
     
                 confluent local services start
+
+# Link to some Resources that I found helpful.
+  https://docs.confluent.io/5.4.2/cli/installing.html
+  https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac
+  https://stackoverflow.com/questions/30413621/homebrew-cask-option-not-recognized
+  https://www.youtube.com/watch?v=5x5GnBhyTMI
